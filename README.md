@@ -1,1 +1,1 @@
-# gamepadskins
+# GamepadSkin
