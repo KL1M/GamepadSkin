@@ -1,0 +1,28 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M32.0803 2.03979C48.5921 2.04005 61.9778 15.4264 61.9778 31.9382C61.9775 48.4498 48.5919 61.8354 32.0803 61.8357C15.5685 61.8357 2.18214 48.45 2.18188 31.9382C2.18188 15.4263 15.5683 2.03979 32.0803 2.03979Z" fill="url(#paint0_radial_55_114)" stroke="url(#paint1_linear_55_114)" stroke-width="2.7" stroke-miterlimit="22.93"/>
+<path d="M30.3536 6.06185C17.2392 7.48453 11.8528 14.939 11.8528 14.939C28.961 11.3394 37.9157 11.3839 52.7621 15.3004C52.7621 15.3004 43.4679 4.63917 30.3536 6.06185Z" fill="#F3F3F3"/>
+<g filter="url(#filter0_d_55_114)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1683 43.5075C39.4695 44.2664 40.1079 44.8205 40.8668 44.8205H47.2633C48.0102 44.8205 48.5402 44.2544 48.2029 43.5075L37.6625 19.7526C37.3252 19.0057 36.723 18.4757 35.9641 18.4757H28.2425C27.4956 18.4757 26.8934 19.0419 26.544 19.7887L16.0037 43.5075C15.6664 44.2664 16.1964 44.8205 16.9432 44.8205H22.9663C23.7131 44.8205 24.3637 44.2544 24.6648 43.5075L25.9778 40.1225H37.8312L39.1442 43.5075H39.1683ZM31.8323 26.3779H32.2057L35.2172 33.9068H28.628L31.8323 26.3779Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_55_114" x="8.6999" y="13.0757" width="46.8067" height="40.7448" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1.8"/>
+<feGaussianBlur stdDeviation="3.6"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.6 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_55_114"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_55_114" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_55_114" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(32.1 32.3) rotate(90) scale(27.9)">
+<stop stop-color="white"/>
+<stop offset="0.713725" stop-color="#F0F0F0"/>
+<stop offset="1" stop-color="#CECECE"/>
+</radialGradient>
+<linearGradient id="paint1_linear_55_114" x1="32.0799" y1="3.50001" x2="32.0799" y2="62.9" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B2B2B2"/>
+<stop offset="1" stop-color="#F2F2F2"/>
+</linearGradient>
+</defs>
+</svg>
